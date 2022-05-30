@@ -11,3 +11,11 @@ It takes sometime to sync the progress. If it doesnt sync for a long time, ask f
 ### Q3. Why I am facing "Nothing to compile" issue while compiling my contract in Windows Device?
 
 You need to check and Update your `Hardhat` Version to "2.9.6". You can do this by entering this command ` npm install --save-dev "hardhat@^2.9.6" `
+
+Q4. How do I get the NFT once I complete any track ?
+
+once you complete a certain track the NFT will be released in your OpenSea you can see it , you willl recieve it in the end of month.
+
+
+
+
